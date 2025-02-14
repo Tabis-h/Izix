@@ -2,7 +2,7 @@
     "name": "torrent-streamer",
     "version": "1.0.0",
     "description": "A Node.js torrent streaming server using WebTorrent and Express",
-    "main": "server/index.js",
+    "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
