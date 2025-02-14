@@ -4,7 +4,7 @@
     "description": "A Node.js torrent streaming server using WebTorrent and Express",
     "main": "server/index.js",
     "scripts": {
-        "start": "node server/index.js"
+        "start": "node index.js"
     },
     "dependencies": {
         "express": "^4.18.2",
